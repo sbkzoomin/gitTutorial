@@ -1,2 +1,4 @@
+
 This is sample text 2 file.
 Code updated
+This is sample text 2 file. Code Updated
