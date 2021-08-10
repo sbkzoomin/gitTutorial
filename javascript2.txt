@@ -1,1 +1,2 @@
 This is a sample text. I'm making changes in sample text file. File updating. new file code changes updated::
+Updating file from github directly
